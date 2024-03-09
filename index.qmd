@@ -9,7 +9,7 @@ comments: false
 ---li
 ---
 
-Hello! I am Hari Lee,
+Hello! I am Hari,
 
 I am a third-year **Bachelor of Information** student at the University of Toronto.
 

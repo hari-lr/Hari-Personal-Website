@@ -1,19 +1,27 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "Hari Personal Website"
+  title: "Hari Lee Robledo"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
-
+        text: About Me
+      - href: papers.qmd
+        text: Papers
+      - href: https://drive.google.com/file/d/1_B5WQ6ZZknEf7BiDHiB5fwNrieR-P4VE/view?usp=sharing
+        text: Resume
+    page-footer:
+      right:
+        - icon: github
+      border: true
+      background: "light"
+     
 format:
   html:
-    theme: cosmo
+    theme: journal
     css: styles.css
     toc: true
 
 editor: visual
-
