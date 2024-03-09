@@ -1,5 +1,16 @@
 ---
-title: "Hari Personal Website"
+title: <center>Welcome to my Website!</center>
+about: 
+  template: trestles
+  links: 
+    - text: GitHub
+      url: "https://github.com/hari-lr"
+comments: false
+---li
 ---
 
-I am a Bachelor of Information student at the University of Toronto.
+Hello! I am Hari Lee,
+
+I am a third-year **Bachelor of Information** student at the University of Toronto.
+
+Before starting at the Faculty of Information, I was **specializing in Digital Enterprise Management**, where I learned how to use digital technologies to solve business management and organizational problems in creative and innovative ways. Now, I am exploring technology through a design and user-centric lens and learning how to translate ideas into impactful digital products.
