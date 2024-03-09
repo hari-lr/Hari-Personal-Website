@@ -6,9 +6,9 @@ In this section, I present selected papers that I completed throughout my first 
 
 <h5><b>Course: INF312 - Worlds Become Data</b></h5>
 
-1.  Hari Lee Robledo, 2024, “Do Lower-Income Wards and Older Apartment Buildings Obtain Lower Apartment Building Evaluation Scores? An Analysis of the 2023 Apartment Building Evaluation Scores”. Course Paper, INF312 - World Becomes Data. \[[available](https://github.com/hari-lr/RentSafeTO-Building-Evaluation)\]\*
+1.  Hari Lee Robledo, 2024, “Do Lower-Income Wards and Older Apartment Buildings Obtain Lower Apartment Building Evaluation Scores? An Analysis of the 2023 Apartment Building Evaluation Scores”. Course Paper, INF312 - World Becomes Data. \[[available](https://github.com/hari-lr/RentSafeTO-Building-Evaluation/blob/main/outputs/paper.pdf)\]\*
 
-2.  Francesca Ye, Sky Suh, Hari Lee Robledo, 2024, “Men and Women Both Prefer and Perceive Inaction as More Competent”. Course Paper, INF312 - World Becomes Data. \[[available](https://github.com/hari-lr/Preference-and-Perception-of-Decision-Making.git)\]\*
+2.  Francesca Ye, Sky Suh, Hari Lee Robledo, 2024, “Men and Women Both Prefer and Perceive Inaction as More Competent”. Course Paper, INF312 - World Becomes Data. \[[available](https://github.com/hari-lr/Preference-and-Perception-of-Decision-Making/blob/main/outputs/paper/paper.pdf)\]\*
 
 <h5><b>Course: INF353 - Interactive Design Systems Studio</b></h5>
 
