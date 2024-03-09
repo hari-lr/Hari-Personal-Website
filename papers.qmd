@@ -4,16 +4,16 @@ title: <center> Papers </center>
 
 In this section, I present selected papers that I completed throughout my first year at the Bachelor of Information.
 
-<h5><b>Course: "INF312 - Worlds Become Data"</b></h5>
+<h5><b>Course: INF312 - Worlds Become Data</b></h5>
 
 1.  Hari Lee Robledo, 2024, “Do Lower-Income Wards and Older Apartment Buildings Obtain Lower Apartment Building Evaluation Scores? An Analysis of the 2023 Apartment Building Evaluation Scores”. Course Paper, INF312 - World Becomes Data. \[[available](https://github.com/hari-lr/RentSafeTO-Building-Evaluation)\]\*
 
 2.  Francesca Ye, Sky Suh, Hari Lee Robledo, 2024, “Men and Women Both Prefer and Perceive Inaction as More Competent”. Course Paper, INF312 - World Becomes Data. \[[available](https://github.com/hari-lr/Preference-and-Perception-of-Decision-Making.git)\]\*
 
-<h5><b>Course: "INF353 - Interactive Design Systems Studio"</b></h5>
+<h5><b>Course: INF353 - Interactive Design Systems Studio</b></h5>
 
 1.  Francesca Ye, Hari Lee Robledo. 2024. Large Display Interactive System Design: Chick-fil-A. Design Report, INF353H – Interactive Design Systems Studio. \[[available](https://drive.google.com/drive/folders/1Ed7UU3IvxyY1Z1A-zxQOitBx0k1Uk0cg)\]\*
 
-<h5><b>Course: "INF352 - Information Design Studio"</b></h5>
+<h5><b>Course: INF352 - Information Design Studio</b></h5>
 
 1.  Mingjia Chen, Hari Lee Robledo., et al. 2023. Design Project - UofT Campus Safety App. Design Report, INF352H – Information Design Studio. \[[available](https://drive.google.com/drive/folders/1Ed7UU3IvxyY1Z1A-zxQOitBx0k1Uk0cg)\]\*
