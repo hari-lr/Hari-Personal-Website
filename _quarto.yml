@@ -10,8 +10,8 @@ website:
         text: About Me
       - href: papers.qmd
         text: Papers
-      - href: https://drive.google.com/file/d/1_B5WQ6ZZknEf7BiDHiB5fwNrieR-P4VE/view?usp=sharing
-        text: Resume
+      - text: Resume
+        file: Hari Lee - Resume.pdf
     page-footer:
       right:
         - icon: github
@@ -20,7 +20,7 @@ website:
      
 format:
   html:
-    theme: journal
+    theme: minty
     css: styles.css
     toc: true
 
