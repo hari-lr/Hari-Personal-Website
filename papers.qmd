@@ -12,7 +12,7 @@ In this section, I present selected papers that I completed throughout my first 
 
 <h5><b>Course: INF353 - Interactive Design Systems Studio</b></h5>
 
-1.  Francesca Ye, Hari Lee Robledo. 2024. Large Display Interactive System Design: Chick-fil-A. Design Report, INF353H – Interactive Design Systems Studio. \[[available](https://drive.google.com/drive/folders/1Ed7UU3IvxyY1Z1A-zxQOitBx0k1Uk0cg)\]\*
+1.  Francesca Ye, Hari Lee Robledo. 2024. Large Display Interactive System Design: Chick-fil-A. Design Report, INF353H – Interactive Design Systems Studio. \[[available](https://drive.google.com/file/d/19E4NyNqP43qCkbav1oyBwiX3ra0u-Y40/view?usp=sharing)\]\*
 
 <h5><b>Course: INF352 - Information Design Studio</b></h5>
 
